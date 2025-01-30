@@ -1,3 +1,10 @@
-Hi! I'm Aditi Babu, a data geek with a penchant for Artificial Intelligence and Machine Learning.
-I am currently pursuing my Bachelors degree in National Institute of Technology, Warangal, India.
-Thrilled to be joining GitHub, where I can learn from some of the brightest minds in the field!
+Hi, I’m Aditi! 👋
+
+I’m a final-year student at NIT Warangal. I’m passionate about AI, Machine Learning, and Data Science. Currently, I’m working as an Undergraduate Research Associate at CMU on Video Anomaly Detection using Computer Vision. I've previously interned at Fractal Analytics and IIT Kanpur.
+
+Happy to connect! ✨
+
+-  [LinkedIn](https://www.linkedin.com/in/aditi-babu)  
+-  [Kaggle](https://www.kaggle.com/aditibabu)  
+-  [Medium](https://medium.com/@aditib259)  
+-  [Portfolio Website](https://aditi25502.wixsite.com/portfolio)
